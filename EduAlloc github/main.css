@@ -1,0 +1,270 @@
+h3{
+    background-color: #ABCDEF;
+    border-radius: 10px;
+    border:2px solid #ccc;
+    padding: 10px;
+    font-size: 25px;
+    
+}
+
+#Top{
+	
+	height:150px;
+}
+
+#Left{
+	background-color: #3e3737;
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -500px;
+    margin-left: -1000px;
+    width: 256px;
+    height: 1400px;
+}
+
+#Right{
+	background-color: #3e3737;
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -500px;
+    margin-left: 700px;
+    width: 256px;
+    height: 1400px;
+}
+
+#menu{
+    
+    width:400;
+    z-index:999;
+    top: 20px;
+}
+
+
+
+#menu0,#menu1,#menu2,#menu3,#menu4,#menu5{display: inline-block; *display: inline; zoom: 1; vertical-align: top; margin: 0; padding: 0;}
+
+h3:hover{
+    background-color:#556677;
+}
+
+iframe{
+    position:center;
+    padding: 20px;
+}
+
+input{
+    padding: 30px;
+    position:static;
+    font-size: 25px;
+}
+
+#confirm{
+    font-size:15;
+    background-color:aquamarine;
+}
+
+nav{
+    display: block;
+}
+
+body{
+    background-color:white;
+}
+
+h1{
+    font-family:Arial;
+    color: black;
+    font-size: 50px;
+}
+
+#about{
+    background-color:#3e3737;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 750px;
+    padding: 10px;
+    color: #f0e5e5;
+}
+
+h4{
+    font-size: 20px;
+    color: black;
+}
+
+a{
+    text-decoration:none;
+    color:black;
+}
+
+#go{
+    background-color: #3e3737;
+    border-radius: 0px;
+    border:2px solid #ccc;
+    padding: 10px;
+    font-size: 25px;
+    color: #f0e5e5;
+}
+
+#menufiller{
+	background-color: #3e3737;
+    border-radius: 0px;
+    border:2px solid #ccc;
+    padding: 10px;
+	width: 200px;
+    font-size: 25px;
+    color: #3e3737;
+}
+
+#go:hover{
+     background-color:#556677;
+}
+
+#staff{
+    background-color:#C7C7C7;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 400px;
+    padding: 10px;
+	float:left;
+	
+}
+
+#filler{
+ height: 500px;
+ padding: 100px;
+ float:left;
+}
+
+p{
+    font-size:30px;
+}
+
+h4{
+    font-size: 40px;
+}
+
+#sid{
+    border-radius: 100%;
+    border: 2px solid black;
+    z-index: 999;
+    height:170px;
+    width:170px;
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-image: url("https://scontent-dfw1-1.xx.fbcdn.net/hphotos-xpf1/t31.0-8/12248234_1525069474482792_7098183042462270353_o.jpg");
+}
+
+#grant{
+    border-radius: 100%;
+    border: 2px solid black;
+    z-index: 999;
+    height:170px;
+    width:170px;
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-image: url("https://scontent-dfw1-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/12279248_1525062461150160_1304296688617309454_n.jpg?oh=bb0e78c1543c2e4407fb9441096c3e4e&oe=56D8B48C");
+}
+
+#andrew{
+    border-radius: 100%;
+    border: 2px solid black;
+    z-index: 999;
+    height:170px;
+    width:170px;
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-image: url("https://scontent-atl3-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/12299384_1525207521135654_8611865183938719842_n.jpg?oh=bf49fc7fb7da4ccbfadf86bd2c582ddb&oe=56F72E38");
+}
+
+#alex{
+    border-radius: 100%;
+    border: 2px solid black;
+    z-index: 999;
+    height:170px;
+    width:170px;
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-image: url("https://scontent-dfw1-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/12299366_1525063704483369_4293452246286469352_n.jpg?oh=6bfd7148677d7b7ce6a40e1ff800228d&oe=56F7D579");
+}
+
+#dhruv{
+    border-radius: 100%;
+    border: 2px solid black;
+    z-index: 999;
+    height:170px;
+    width:170px;
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-image: url("https://scontent-dfw1-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/12274375_1525062694483470_1543839468851405230_n.jpg?oh=01edfcb6dbf72dd60c9426d9f0fa46c9&oe=56ACCE1A");
+}
+
+
+
+
+#contact{
+    background-color:#C7C7C7;
+     border: 2px solid black;
+    border-radius: 10px;
+    width: 500px;
+}
+
+#space{
+    padding: 30px;
+}
+
+#boldy{
+	font-size: 20px;
+    color: black;
+	
+}
+
+#con{
+    color: black;
+}
+
+#facebook{
+	color:blue;
+	text-decoration: underline;
+}
+
+#share{
+	text-decoration: underline;
+}
+
+#yoloswag{
+    font-size: 15px
+}
+
+#Donate{
+	width: 500px;
+}
+
+.pictures{
+     border-radius: 10%;
+    border: 2px solid black;
+    z-index: 999;
+    height:350px;
+    width:500px;
+	background-color: white;
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-image: url("globe.png");
+	padding: 20px;
+	margin: 30px;
+}
+
+.logo{
+	position: absolute;
+	top: -5%;
+	left: 10%;
+	
+}
+
+
+
+img.resize{
+    width: 500;
+    height: auto;
+}
