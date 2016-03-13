@@ -1,0 +1,29 @@
+application: education-allocation
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: true
+
+
+handlers:
+- url: /files
+  static_dir: files
+  
+- url: /files/css
+  static_dir: css
+  
+- url: /files/js
+  static_dir: js
+  
+- url: /files/pic
+  static_dir: pic
+
+
+
+- url: /.*
+  script: main.app
+
+
+libraries:
+- name: webapp2
+  version: "2.5.2"
